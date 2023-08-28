@@ -1,2 +1,0 @@
-# Kotomitl
-Project about Kotomitl
